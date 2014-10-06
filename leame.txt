@@ -3,3 +3,5 @@ asi funciona github
 comandos basicos
 
 configuracion del nombre y correo
+
+programacion de actualizaciones
